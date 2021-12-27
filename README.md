@@ -5,9 +5,7 @@
 `git clone https://github.com/rkuo2000/pybullet-gym`<br>
 `export PYTHONPATH=$PATH:/home/yourname/pybullet-gym`
 
-## pybulletgym
-Open-source implementations of OpenAI Gym MuJoCo environments for use with the OpenAI Gym Reinforcement Learning Research Platform.<br>
-repro **[bennelot/pybullet-gym/pybulletgym](https://github.com/benelot/pybullet-gym)**<br>
+## [pybulletgym](https://github.com/benelot/pybullet-gym)
 `cd pybulletgym/examples/roboschool-weights`<br>
 `python enjoy_TF_HumanoidFlagrunHarderPyBulletEnv_v1_2017jul.py`<br>
 
