@@ -14,7 +14,6 @@
 `python a2c_humanoid.py`<br>
 `python play_humanoid.py`<br>
 
-## unitree
-repro [unitree_pybullet](https://github.com/unitreerobotics/unitree_pybullet)<br>
+## [unitree](https://github.com/unitreerobotics/unitree_pybullet)
 `python a1.py`<br>
 
