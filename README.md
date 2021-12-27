@@ -6,7 +6,6 @@
 `export PYTHONPATH=$PATH:/home/yourname/pybullet-gym`
 
 ## [pybulletgym](https://github.com/benelot/pybullet-gym)
-*pybullet-gym: open-source implementation of the OpenAI Gym MuJoCo environments using [BulletPhysics](https://github.com/bulletphysics/bullet3)*<br>
 `cd pybulletgym/examples/roboschool-weights`<br>
 `python enjoy_TF_HumanoidFlagrunHarderPyBulletEnv_v1_2017jul.py`<br>
 
