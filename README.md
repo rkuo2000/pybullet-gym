@@ -7,7 +7,7 @@
 
 ## pybulletgym
 Open-source implementations of OpenAI Gym MuJoCo environments for use with the OpenAI Gym Reinforcement Learning Research Platform.<br>
-repro [pybullet-gym/pybulletgym](https://github.com/benelot/pybullet-gym)<br>
+repro **[bennelot/pybullet-gym/pybulletgym](https://github.com/benelot/pybullet-gym)**<br>
 `cd pybulletgym/examples/roboschool-weights`<br>
 `python enjoy_TF_HumanoidFlagrunHarderPyBulletEnv_v1_2017jul.py`<br>
 
