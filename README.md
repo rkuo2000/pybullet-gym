@@ -9,8 +9,8 @@
 Env names: 
 *Ant, Atlas, HalfCheetah, Hopper, Humanoid, HumanoidFlagrun, HumanoidFlagrunHarder, InvertedPendulum, InvertedDoublePendulum, InvertedPendulumSwingup, Reacher, Walker2D*<br>
 `python enjoy_HumanoidFlagrunHarder.py`<br>
-`python train.py Hopper 100000`<br>
-`python play.py Hopper`<br>
+`python train.py Ant 100000`<br>
+`python play.py Ant`<br>
 
 ## [unitree](https://github.com/unitreerobotics/unitree_pybullet)
 `python a1.py`<br>
