@@ -9,11 +9,6 @@
 `cd pybulletgym/examples/roboschool-weights`<br>
 `python enjoy_TF_HumanoidFlagrunHarderPyBulletEnv_v1_2017jul.py`<br>
 
-## humanoid
-*sample codes using Stable-Baselines3:*<br>
-`python a2c_humanoid.py`<br>
-`python play_humanoid.py`<br>
-
 ## [unitree](https://github.com/unitreerobotics/unitree_pybullet)
 `python a1.py`<br>
 
