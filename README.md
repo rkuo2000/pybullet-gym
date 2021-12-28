@@ -9,7 +9,7 @@
 Env names: 
 *Ant, Atlas, HalfCheetah, Hopper, Humanoid, HumanoidFlagrun, HumanoidFlagrunHarder, InvertedPendulum, InvertedDoublePendulum, InvertedPendulumSwingup, Reacher, Walker2D*<br>
 `python enjoy_HumanoidFlagrunHarder.py` (copy from pybulletgym/examples/roboschool-weights/enjoy_TF_*.py)<br>
-`python train.py Ant 100000`<br>
+`python train.py Ant 10000000`<br>
 `python play.py Ant`<br>
 
 ## [unitree](https://github.com/unitreerobotics/unitree_pybullet)
