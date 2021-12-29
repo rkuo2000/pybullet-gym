@@ -22,4 +22,4 @@ Env names:
 ## [unitree](https://github.com/unitreerobotics/unitree_pybullet)
 `python a1.py`<br>
 
-![](./assets/unitree_a1.mp4
+<video controls><source src="./assets/unitree_a1.mp4" type="video/mp4"></video>
