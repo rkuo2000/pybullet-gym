@@ -8,9 +8,16 @@
 ## gym
 Env names: 
 *Ant, Atlas, HalfCheetah, Hopper, Humanoid, HumanoidFlagrun, HumanoidFlagrunHarder, InvertedPendulum, InvertedDoublePendulum, InvertedPendulumSwingup, Reacher, Walker2D*<br>
-`python enjoy_HumanoidFlagrunHarder.py` (copy from pybulletgym/examples/roboschool-weights/enjoy_TF_*.py)<br>
+
+**Train**<br>
 `python train.py Ant 10000000`<br>
-`python play.py Ant`<br>
+
+**Enjoy**<br>
+`python enjoy.py Ant`<br>
+
+**Enjoy with pretrained weights**<br>
+`python enjoy_Ant.py`<br>
+`python enjoy_HumanoidFlagrunHarder.py` (copy from pybulletgym/examples/roboschool-weights/enjoy_TF_*.py)<br>
 
 ## [unitree](https://github.com/unitreerobotics/unitree_pybullet)
 `python a1.py`<br>
