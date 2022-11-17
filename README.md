@@ -7,7 +7,20 @@ git clone https://github.com/rkuo2000/pybullet-gym
 export PYTHONPATH=$PATH:/home/yourname/pybullet-gym
 ```
 
-**Status of Implementation:**<br>
+## gym
+**Env names:** *Ant, Atlas, HalfCheetah, Hopper, Humanoid, HumanoidFlagrun, HumanoidFlagrunHarder, InvertedPendulum, InvertedDoublePendulum, InvertedPendulumSwingup, Reacher, Walker2D*<br>
+
+**Train**<br>
+`python train.py Ant 10000000`<br>
+
+**Enjoy** with trained-model<br>
+`python enjoy.py Ant`<br>
+
+**Enjoy** with pretrained weights<br>
+`python enjoy_Ant.py`<br>
+`python enjoy_HumanoidFlagrunHarder.py` (copy from pybulletgym/examples/roboschool-weights/enjoy_TF_*.py)<br>
+
+**Status of Gym Implementation:**<br>
 Environment Name | Implemented | Similar to Reference Implementation | Pretrained agent available
 ---------|---------|---------|---------
 | **RoboSchool Envs** |
@@ -38,20 +51,6 @@ HumanoidMuJoCoEnv-v0                    | Yes | No | No
 PusherMuJoCoEnv-v0                      | No | No | No
 ThrowerMuJoCoEnv-v0                     | No | No | No
 StrikerMuJoCoEnv-v0                     | No | No | No
-
-## gym
-Env names: 
-*Ant, Atlas, HalfCheetah, Hopper, Humanoid, HumanoidFlagrun, HumanoidFlagrunHarder, InvertedPendulum, InvertedDoublePendulum, InvertedPendulumSwingup, Reacher, Walker2D*<br>
-
-**Train**<br>
-`python train.py Ant 10000000`<br>
-
-**Enjoy**<br>
-`python enjoy.py Ant`<br>
-
-**Enjoy with pretrained weights**<br>
-`python enjoy_Ant.py`<br>
-`python enjoy_HumanoidFlagrunHarder.py` (copy from pybulletgym/examples/roboschool-weights/enjoy_TF_*.py)<br>
 
 ## [unitree](https://github.com/unitreerobotics/unitree_pybullet)
 `python a1.py`<br>
