@@ -18,7 +18,7 @@ export PYTHONPATH=$PATH:/home/yourname/pybullet-gym
 
 **Enjoy** with pretrained weights<br>
 `python enjoy_Ant.py`<br>
-`python enjoy_HumanoidFlagrunHarder.py` (copy from pybulletgym/examples/roboschool-weights/enjoy_TF_*.py)<br>
+`python enjoy_HumanoidFlagrunHarder.py` (a copy from pybulletgym/examples/roboschool-weights/enjoy_TF_*.py)<br>
 
 **Status of Gym Implementation:**<br>
 Environment Name | Implemented | Similar to Reference Implementation | Pretrained agent available
