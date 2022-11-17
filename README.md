@@ -1,5 +1,5 @@
 # [pybullet-gym](https://github.com/benelot/pybullet-gym)
-**Setup**<br>
+## installation
 ```
 pip install gym
 pip install stable-baselines3
