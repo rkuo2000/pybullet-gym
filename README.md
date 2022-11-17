@@ -7,7 +7,7 @@ git clone https://github.com/rkuo2000/pybullet-gym
 export PYTHONPATH=$PATH:/home/yourname/pybullet-gym
 ```
 
-* **Status of Implementation:**
+**Status of Implementation:**<br>
 Environment Name | Implemented | Similar to Reference Implementation | Pretrained agent available
 ---------|---------|---------|---------
 | **RoboSchool Envs** |
