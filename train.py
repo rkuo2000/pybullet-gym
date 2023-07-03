@@ -9,8 +9,6 @@ from stable_baselines3 import A2C
 env_name = sys.argv[1]
 timesteps = sys.argv[2]
 env = gym.make(env_name)
-env.reset()
-env.render(mode="human")
 
 model = A2C('MlpPolicy', env)
 
