@@ -1,7 +1,7 @@
 # Env names: Ant, Altas, HalfCheetah, Hopper, Humanoid, HumanoidFlagrun, HumanoidFlagrunHarder, 
 #            InvertedPendulum, InvertedDoublePendulum, InvertedPendulumSwingup, Reacher, Walker2D
 import sys
-import gym
+import gymnasium as gym
 import pybullet
 import pybulletgym.envs
 from stable_baselines3 import A2C
